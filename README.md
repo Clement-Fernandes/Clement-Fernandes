@@ -4,6 +4,5 @@
   <a href="https://clement-fernandes.github.io/nouveau-porfolio/directories/en/index.html"><img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=keybase&labelColor=33A0FF&logoColor=ffffff"></a>
 </p>
 
-<!-- Header -->
-<h1 >Hi, I'm Clément👋</h1>
-<p>I'm a first year student at <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
+<h1 >Bonjour, je suis Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p>Je suis actuellement en 1ère année à <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
