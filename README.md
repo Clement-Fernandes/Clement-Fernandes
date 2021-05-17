@@ -1,8 +1,14 @@
 <p align="right">
-  <a href="https://github.com/Clement-Fernandes"><img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&labelColor=333&logoColor=fca121"></a>
-  <a href="https://www.linkedin.com/in/cl%C3%A9ment-fernandes-15093a206/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&labelColor=0077b5&logoColor=ffffff"></a>
-  <a href="https://clement-fernandes.github.io/nouveau-porfolio/"><img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=keybase&labelColor=33A0FF&logoColor=ffffff"></a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+">
 </p>
 
 <h1 >Bonjour, je suis Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p>Je suis actuellement en 1ère année à <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
+<p>Je suis actuellement en formation à <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
