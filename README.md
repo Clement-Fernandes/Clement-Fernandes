@@ -6,5 +6,5 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h1 >Bonjour, je suis Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 >Salut, je suis Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p>Je suis actuellement en formation à <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
