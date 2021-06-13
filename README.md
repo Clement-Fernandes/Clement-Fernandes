@@ -7,4 +7,4 @@
 </p>
 
 <h1 >Salut, je suis Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p>Je suis actuellement en formation à <b><a href="https://www.epitech.eu/en/">Epitech</a></b>.</p>
+<p>Je suis actuellement en formation à <b><a href="https://www.epitech.eu">Epitech</a></b>.</p>
