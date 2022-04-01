@@ -1,13 +1,7 @@
-<p align="right">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-</p>
-
 <h1 >Hi, I'm Clément <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p>I am a developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> :office:.</p>
-<p>I am also a Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> :round_pushpin:.</p>
+
+### I am passionate about managing and executing all types of projects.
+
+<p>- I am a developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> :office:</p>
+
+<p>- I am also a Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> :round_pushpin:</p>
