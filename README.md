@@ -4,4 +4,4 @@
 
 - <p>I am a developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <img src=".assets/epitech-icon.png" width=15> </p>
 
-- <p>I am also a Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <img src=".assets/taker-icon.png" width=20> </p>
+- <p>I am also a Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <img src=".assets/taker-icon.png" width=15> </p>
