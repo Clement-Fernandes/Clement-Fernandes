@@ -16,7 +16,7 @@
 
 <br>
 
-## connect with me: <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="20px">
+## connect with me:
 
 &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-fernandes-15093a206/?locale=en_US"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
