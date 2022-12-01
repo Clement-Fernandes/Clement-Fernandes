@@ -8,11 +8,11 @@
 
 ### I am passionate about managing and executing all types of projects.
 
-- <p> 👨‍💻 I am a developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://github.com/Epitech" target="_blank"><img src=".assets/epitech-icon.png" width="15"></a> </p>
+- <p> 👨‍💻 I am a developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://www.epitech.eu" target="_blank"><img src=".assets/epitech-icon.png" width="15"></a> </p>
 
-- <p> :gem: I am the head of the Partnership and Events Department at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://github.com/juniorconseiltaker" target="_blank"><img src=".assets/taker-icon.png" width="15"></a> </p>
+- <p> :gem: I am the head of the Partnership and Events Department at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://taker.epitech.eu" target="_blank"><img src=".assets/taker-icon.png" width="15"></a> </p>
 
-- <p> :space_invader: I am also one of the creators of the <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"><img src=".assets/studio17-icon.png" width="15"></a> </p>
+- <p> :space_invader: Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"><img src=".assets/studio17-icon.png" width="15"></a> </p>
 
 <br>
 
