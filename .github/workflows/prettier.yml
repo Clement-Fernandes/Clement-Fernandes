@@ -27,4 +27,3 @@ jobs:
         uses: creyD/prettier_action@v4.2
         with:
           commit_message: "Code Indented!"
-          prettier_options: --write **/*.{md}
