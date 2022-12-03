@@ -20,7 +20,7 @@
 
 - <p><img src=".assets/bomberman.png" width="15"> <b><a href="https://github.com/Studio-17/Indie-Studio">Indie Studio</a> :</b> A 3D video game based on the bomberman game</p>
 - <p><img src=".assets/rtype-logo.png" width="15"> <b><a href="https://github.com/Studio-17/R-Type">R-Type</a> :</b> A network game which consists of directing a ship to eliminate different types of enemies</p>
-- <p><img src=".assets/letter-z.png" width="15"> <b><a href="https://github.com/Studio-17/Zappy">R-Type</a> :</b> A network game with several teams confront on a tiles map containing resources</p>
+- <p><img src=".assets/letter-z.png" width="15"> <b><a href="https://github.com/Studio-17/Zappy">Zappy</a> :</b> A network game with several teams confront on a tiles map containing resources</p>
 
 <br>
 
