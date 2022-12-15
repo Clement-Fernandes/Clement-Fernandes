@@ -18,13 +18,17 @@
 
 ### My last projects
 
+- <p><img src=".assets/fastclap.png" width="15"> <b><a href="https://github.com/FastClap">Fast Clap</a> :</b> A solution that facilitates the task of film pre-production for assistant directors while introducing eco-production solutions</p>
+
 - <p><img src=".assets/bomberman.png" width="15"> <b><a href="https://github.com/Studio-17/Indie-Studio">Indie Studio</a> :</b> A 3D video game based on the bomberman game</p>
+
 - <p><img src=".assets/rtype-logo.png" width="15"> <b><a href="https://github.com/Studio-17/R-Type">R-Type</a> :</b> A network game which consists of directing a ship to eliminate different types of enemies</p>
+
 - <p><img src=".assets/letter-z.png" width="15"> <b><a href="https://github.com/Studio-17/Zappy">R-Type</a> :</b> A network game with several teams confront on a tiles map containing resources</p>
 
 <br>
 
-## connect with me:
+## Connect with me:
 
 &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-fernandes-15093a206/?locale=en_US"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
