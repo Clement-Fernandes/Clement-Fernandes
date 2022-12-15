@@ -18,7 +18,7 @@
 
 ### My last projects
 
-- <p><img src=".assets/fastclap.png" width="15"> <b><a href="https://github.com/FastClap">Fast Clap</a> :</b> A solution that facilitates the task of film pre-production for assistant directors while introducing eco-production solutions</p>
+- <p><img src=".assets/fastclap.png" width="15"> <b><a href="https://github.com/FastClap">Fast Clap</a> :</b> A solution that facilitates the task of film pre-production for assistant directors</p>
 
 - <p><img src=".assets/bomberman.png" width="15"> <b><a href="https://github.com/Studio-17/Indie-Studio">Indie Studio</a> :</b> A 3D video game based on the bomberman game</p>
 
