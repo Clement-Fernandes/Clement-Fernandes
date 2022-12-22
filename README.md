@@ -28,7 +28,9 @@
 <br>
 
 <div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes)
+
 </div>
 
 <br>
