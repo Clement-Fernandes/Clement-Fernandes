@@ -36,7 +36,7 @@
 
 <br>
 
-## Connect with me:
+## Connect with me: :handshake:
 
 &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-fernandes-15093a206/?locale=en_US"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
