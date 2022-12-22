@@ -27,6 +27,10 @@
 
 <br>
 
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes)
+
+<br>
+
 ## Connect with me:
 
 &nbsp; &nbsp;
