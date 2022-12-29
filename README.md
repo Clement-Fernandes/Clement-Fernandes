@@ -33,8 +33,6 @@
 
 </div>
 
-<br>
-
 ## Connect with me:
 
 &nbsp; &nbsp;
