@@ -27,13 +27,7 @@
 
 <br>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clement-Fernandes&show_icons=true)
-
-</div>
-
 ## Connect with me:
 
 &nbsp; &nbsp;
-<a href="https://clement-fernandes.github.io/linktree/"><img src=".assets/external-link.svg" width="30px" alt="linktree"></a>
+<a href="https://clement-fernandes.github.io/linktree/" target="_blank"><img src=".assets/external-link.svg" width="30px" alt="linktree"></a>
