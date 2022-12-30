@@ -39,6 +39,4 @@
 ## Connect with me: :handshake:
 
 &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/cl%C3%A9ment-fernandes-15093a206/?locale=en_US"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
-<a href="mailto:clement.fernandes@epitech.eu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a>
+<a href="https://clement-fernandes.github.io/linktree/"><img src=".assets/external-link.svg" width="30px" alt="linktree"></a>
