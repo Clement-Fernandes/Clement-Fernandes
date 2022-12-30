@@ -27,7 +27,7 @@
 
 <br>
 
-## Connect with me:
+## Checkout my link tree to connect with me:
 
 &nbsp; &nbsp;
 <a href="https://clement-fernandes.github.io/linktree/" target="_blank"><img src=".assets/external-link.svg" width="30px" alt="linktree"></a>
