@@ -27,6 +27,13 @@
 
 <br>
 
+<details>
+  <summary><h3><b>Github Stats :bar_chart:</b></h3></summary>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&theme=dark&layout=compact&count_private=true" width="50%"/>
+  </div>
+</details>
+
 ## Checkout my link tree to connect with me:
 
 &nbsp; &nbsp;
