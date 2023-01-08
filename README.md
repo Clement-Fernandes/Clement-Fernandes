@@ -22,5 +22,3 @@
 </div>
 
 ### Checkout my link tree to connect with me: <a href="https://clement-fernandes.github.io/linktree/"><img src=".assets/external-link.svg" width="25px" alt="linktree"></a>
-
-
