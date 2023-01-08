@@ -14,15 +14,13 @@
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
 
-<details>
-  <summary><h3><b>Click here to see my Github Stats :bar_chart:</b></h3></summary>
-  <div align="center">
+### Some Github Stats :bar_chart:
+
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="45%" />
-  </div>
-</details>
+</div>
 
-## Checkout my link tree to connect with me:
+### Checkout my link tree to connect with me: <a href="https://clement-fernandes.github.io/linktree/"><img src=".assets/external-link.svg" width="25px" alt="linktree"></a>
 
-&nbsp; &nbsp;
-<a href="https://clement-fernandes.github.io/linktree/" target="_blank"><img src=".assets/external-link.svg" width="30px" alt="linktree"></a>
+
