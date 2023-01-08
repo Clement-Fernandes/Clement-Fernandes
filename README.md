@@ -14,19 +14,6 @@
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
 
-<br>
-
-### My last projects
-
-- <p><img src=".assets/fastclap.png" width="15"> <b><a href="https://github.com/FastClap">Fast Clap</a> :</b> A solution that facilitates the task of film pre-production for assistant directors</p>
-
-- <p><img src=".assets/bomberman.png" width="15"> <b><a href="https://github.com/Studio-17/Indie-Studio">Indie Studio</a> :</b> A 3D video game based on the bomberman game</p>
-
-- <p><img src=".assets/rtype-logo.png" width="15"> <b><a href="https://github.com/Studio-17/R-Type">R-Type</a> :</b> A network game which consists of directing a ship to eliminate different types of enemies</p>
-- <p><img src=".assets/letter-z.png" width="15"> <b><a href="https://github.com/Studio-17/Zappy">Zappy</a> :</b> A network game with several teams confront on a tiles map containing resources</p>
-
-<br>
-
 <details>
   <summary><h3><b>Click here to see my Github Stats :bar_chart:</b></h3></summary>
   <div align="center">
