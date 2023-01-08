@@ -17,7 +17,8 @@
 <details>
   <summary><h3><b>Click here to see my Github Stats :bar_chart:</b></h3></summary>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&theme=dark&layout=compact&count_private=true" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="45%" />
   </div>
 </details>
 
