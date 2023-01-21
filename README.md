@@ -20,5 +20,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="40%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="40%" />
 </div>
-
-#### Checkout my [Link Tree](https://clement-fernandes.github.io/linktree/) to connect with me
