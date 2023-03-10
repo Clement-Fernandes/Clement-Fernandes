@@ -10,7 +10,7 @@
 
 - <p><img src=".assets/epitech-icon.png" width="15"> I am a third year student & developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://www.epitech.eu" target="_blank"></a> </p>
 
-- <p><img src=".assets/taker-icon.png" width="15"> I am the Head of the Partnership and Events Department & an IT Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://taker.epitech.eu" target="_blank"></a> </p>
+- <p><img src=".assets/taker-icon.png" width="15"> I am the Head of the Partnership, Events and Communications Department & an IT Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://taker.epitech.eu" target="_blank"></a> </p>
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
 
