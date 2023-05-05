@@ -8,9 +8,6 @@
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
 
-#### Some Github Stats :bar_chart:
+#### :musical_note: Actually listening to:
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="40%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clement-Fernandes&show_icons=true&theme=dark&layout=compact&count_private=true&include_all_commits=true" width="29%" />
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=clement7.fernandes&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=clement7.fernandes&redirect=true)
