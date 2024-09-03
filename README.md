@@ -4,6 +4,6 @@
 
 - <p><img src=".assets/epitech-icon.png" width="15"> I am a fifth year student & developer learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://www.epitech.eu" target="_blank"></a> </p>
 
-- <p><img src=".assets/taker-icon.png" width="15"> I am an IT Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://juniortaker.com" target="_blank"></a> </p>
+- <p><img src=".assets/taker-icon.png" width="15"> I am an IT Project Manager at <b><a href="https://taker.epitech.eu/">Junior Conseil Taker</a></b> <a href="https://juniortaker.com" target="_blank"></a> and Ex Partner & Event manager</p>
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
