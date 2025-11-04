@@ -2,6 +2,6 @@
 
 ### I am passionate about managing and executing all types of projects.
 
-- <p><img src=".assets/epitech-icon.png" width="15"> I was year student learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://www.epitech.eu" target="_blank"></a> </p>
+- <p><img src=".assets/epitech-icon.png" width="15"> I was a student learning at <b><a href="https://www.epitech.eu">Epitech</a></b> <a href="https://www.epitech.eu" target="_blank"></a> </p>
 
 - <p><img src=".assets/studio17-icon.png" width="15"> Most of my students projects are public in this organisation <b><a href="https://github.com/Studio-17">Studio17</a></b> <a href="https://github.com/Studio-17" target="_blank"></a> </p>
